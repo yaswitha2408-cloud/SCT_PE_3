@@ -1,0 +1,38 @@
+[
+  {
+    "Date": "28th September 2025",
+    "Attendees": [
+      "Vamsi",
+      "Ananya",
+      "Rajesh"
+    ],
+    "Key Points": [
+      "Discussed project milestones and upcoming deadlines"
+    ],
+    "Action Items": [
+      "Vamsi to prepare the presentation by next Monday"
+    ]
+  },
+  {
+    "Date": null,
+    "Attendees": [
+      "Priya",
+      "Rahul"
+    ],
+    "Key Points": [
+      "Reviewed budget updates"
+    ],
+    "Action Items": [
+      "Decided to postpone the client meeting"
+    ]
+  },
+  {
+    "Date": null,
+    "Attendees": [
+      "Meera",
+      "Karthik"
+    ],
+    "Key Points": [],
+    "Action Items": []
+  }
+]
