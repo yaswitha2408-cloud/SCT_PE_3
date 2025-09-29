@@ -1,0 +1,16 @@
+You are an intelligent assistant that converts meeting notes into structured JSON. 
+Extract the following fields:
+- Date
+- Attendees (list)
+- Key Points (list)
+- Action Items (list)
+
+Rules:
+- Maintain proper capitalization.
+- If a field is missing, return an empty list or null.
+- Output valid JSON only.
+
+Input:
+[PASTE MEETING NOTES HERE]
+
+Provide JSON output:
